@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95SPYZDLZf3I_jr1tdWOcuj3YN4N6to7c9N0XqZwLPg&s)](https://www.freepik.com/vectors/coding-doodle)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95SPYZDLZf3I_jr1tdWOcuj3YN4N6to7c9N0XqZwLPg&s)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panka17&label=Profile%20views&color=0e75b6&style=flat" alt="panka17" /> </p>
 
 - 📫 How to reach me **pankajkush17@gmail.com**
